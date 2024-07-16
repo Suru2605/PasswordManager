@@ -1,4 +1,4 @@
-<img width="390" alt="Screenshot 2024-07-16 at 2 47 11 PM" src="https://github.com/user-attachments/assets/a10a8471-441c-4cd8-b90a-7d91e5cfbc4a"># SwiftUI Password Manager
+# SwiftUI Password Manager
 Password Manager application built with SwiftUI
 
 # Overview
